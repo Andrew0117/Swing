@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.mycompany.mdiapplication;
+package com.mycompany.mdiapplication.frames;
 
 import java.awt.Component;
 import java.beans.*;

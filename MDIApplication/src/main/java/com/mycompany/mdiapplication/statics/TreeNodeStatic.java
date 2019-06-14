@@ -1,5 +1,10 @@
-package com.mycompany.mdiapplication;
+package com.mycompany.mdiapplication.statics;
 
+import com.mycompany.mdiapplication.frames.ObjectInternalFramesForTree;
+import com.mycompany.mdiapplication.frames.ThirdInternalFrame;
+import com.mycompany.mdiapplication.frames.SecondInternalFrame;
+import com.mycompany.mdiapplication.frames.GeneralInternalFrame;
+import com.mycompany.mdiapplication.frames.FirstInternalFrame;
 import javax.swing.tree.DefaultMutableTreeNode;
 
 /**

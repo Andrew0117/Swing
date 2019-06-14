@@ -1,4 +1,4 @@
-package com.mycompany.mdiapplication;
+package com.mycompany.mdiapplication.frames;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;

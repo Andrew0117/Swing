@@ -1,5 +1,6 @@
-package com.mycompany.mdiapplication;
+package com.mycompany.mdiapplication.frames;
 
+import com.mycompany.mdiapplication.statics.TreeNodeStatic;
 import java.beans.PropertyChangeEvent;
 //import berezhnov.ua.swing.Form.InternalFrame.ObjectInternalFramesForTree;
 import java.beans.PropertyVetoException;

@@ -1,4 +1,4 @@
-package com.mycompany.mdiapplication;
+package com.mycompany.mdiapplication.frames;
 
 import java.awt.Color;
 import java.awt.event.ActionEvent;
@@ -13,9 +13,9 @@ import javax.swing.Timer;
  *
  * @author Андрей
  */
-public class ThirdInternalFrame extends JInternalFrame {
+public class GeneralInternalFrame extends JInternalFrame {
 
-    public ThirdInternalFrame() {
+    public GeneralInternalFrame() {
         super("<< Картотека посетителей >>", true);
         initComponents();
 

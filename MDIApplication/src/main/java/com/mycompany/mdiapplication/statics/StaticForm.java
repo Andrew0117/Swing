@@ -1,4 +1,4 @@
-package com.mycompany.mdiapplication;
+package com.mycompany.mdiapplication.statics;
 
 import java.awt.Component;
 import java.beans.PropertyVetoException;

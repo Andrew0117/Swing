@@ -1,5 +1,7 @@
 package com.mycompany.mdiapplication;
 
+import com.mycompany.mdiapplication.statics.StaticForm;
+import com.mycompany.mdiapplication.frames.TreeSelectFrames;
 import java.awt.Toolkit;
 import java.awt.event.ActionEvent;
 import java.beans.PropertyVetoException;
